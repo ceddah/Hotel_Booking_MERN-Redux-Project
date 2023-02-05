@@ -10,4 +10,4 @@ Key Features:
 - CRUD Operations
 - Payment with Stripe
 
-#### Preview: [Live Demo:](https://bookahotelmern.herokuapp.com/)
+#### Preview: [Live Demo:](https://hotel-booking-0172.onrender.com)
